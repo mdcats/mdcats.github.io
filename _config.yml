@@ -10,8 +10,8 @@ author :
 
 description: Maryland Applied Category Theory Website
 
-url : https://mdcats.github.io
-baseurl: /mdcats.github.io
+production_url : https://mdcats.github.io
+
 
 
 markdown: kramdown

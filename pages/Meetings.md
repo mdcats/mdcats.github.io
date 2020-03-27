@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Meetings
+title: meetings
 description: Meetings of the Maryland Applied Category Theory Seminar
 ---
 We will meet at intermittent Thursdays @ 2pm over [Zoom](zoom.us)
@@ -24,6 +24,11 @@ I will speak about hierarchical methods of conceptual representation and a graph
 Speaker : Steve Huntsman  
 Date : April 23 @ 2pm  
 Title: Categorical imperatives for designing data structures, algorithms, and system architectures  
+<br/>
+
+Speaker : James Fairbanks  
+Date : April 30 @ 2pm  
+Title : TBA  
 <br/>
 
 ### Past Meetings
