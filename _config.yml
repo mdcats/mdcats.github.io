@@ -1,0 +1,34 @@
+
+permalink: /:categories/:year/:month/:day/:title
+
+exclude: [".rvmrc", ".rbenv-version", "ReadMe.md", "Rakefile", "changelog.md", "License.md"]
+highlighter: rouge
+title : mdcats
+author :
+  name : Noah Chrein
+  email : nchrein@umd.edu
+
+description: Maryland Applied Category Theory Website
+
+url : https://mdcats.github.io
+baseurl: /mdcats.github.io
+
+
+markdown: kramdown
+
+
+JB :
+  version : 0.3.0
+  BASE_PATH : https://mdcats.github.io
+
+  archive_path: nil
+  categories_path : nil
+  tags_path : nil
+  atom_path : nil
+  rss_path : nil
+  comments :
+    provider : false
+  analytics :
+    provider : false
+  sharing :
+    provider : false
