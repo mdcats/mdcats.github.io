@@ -9,7 +9,7 @@ We are a group of students, academics and professionals interested in applying c
 We are hosted at the University of Maryland.
 
 ### Meetings
-We meet Thursdays at 2pm. This year (due to Covid-19) we are meeting online via [Zoom](Zoom.us)
+We meet Thursdays at 2pm. This year (due to Covid-19) we are meeting online via [Zoom](https://Zoom.us)
 
 see the [meetings](pages/Meetings.html) page for further details
 
