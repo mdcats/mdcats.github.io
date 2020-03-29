@@ -21,6 +21,10 @@ I will give an intuitive introduction to representation and reasoning with hiera
 </details>  
 <br/>
 
+Speaker : Saul Hilsenrath  
+Date : April 16 @ 2pm  
+Title : TBA  
+<br/>
 
 Speaker : Steve Huntsman  
 Date : April 23 @ 2pm  
