@@ -11,11 +11,12 @@ We will meet at intermittent Thursdays @ 2pm over [Zoom](zoom.us)
 
 ### Upcoming Meetings
 Speaker : Noah Chrein  
-Date : April 2 @2pm  
-Title : Graphical Interface for Hierarchical Ontology  
+Date : April 9 @2pm  
+Title : Reasoning with Hierarchical Ontologies  
 <details><summary>Abstract</summary>
 <p>
-I will speak about hierarchical methods of conceptual representation and a graphical interface I built over the summer to interact with them.
+I will give an intuitive introduction to representation and reasoning with hierarchical ontologies. Most of the talk will be done through a notes application, but I will also show a prototype graphical interface for creating ontologies.
+
 </p>
 </details>  
 <br/>
@@ -35,7 +36,7 @@ Title : TBA
 Speaker : Mike Rawson  
 Date : March 26, 2020  
 Title : [Categorification of Persistent Homology](../assets/docs/Mike_Rawson_March_26.pdf)  
-Location : Zoom ID 444-685-053 ([?](https://zoom.us/join))
+Location : Zoom ([?](https://zoom.us))
 <br/>
 
 Speaker : Spencer Breiner  
