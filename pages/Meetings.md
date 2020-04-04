@@ -23,7 +23,6 @@ I will give an intuitive introduction to representation and reasoning with hiera
 
 Speaker : Saul Hilsenrath  
 Date : April 16 @ 2pm  
-Title : TBA  
 <br/>
 
 Speaker : Steve Huntsman  
@@ -33,8 +32,10 @@ Title: Categorical imperatives for designing data structures, algorithms, and sy
 
 Speaker : James Fairbanks  
 Date : April 30 @ 2pm  
-Title : TBA  
 <br/>
+
+Speaker : Noson Yonofksy  
+Date : May 7 @ 2pm  
 
 ### Past Meetings
 Speaker : Mike Rawson  
