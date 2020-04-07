@@ -36,6 +36,15 @@ Date : April 30 @ 2pm
 
 Speaker : Noson Yonofksy  
 Date : May 7 @ 2pm  
+Title : Theoretical Computer Science for the Working Category Theorist  
+<details><summary>Abstract</summary>
+<p>
+This talk is a preview of a forthcoming book in the Applied Category Theory series of Cambridge University Press. The book uses basic category theory to describe all the central concepts and prove the main theorems of theoretical computer science. Category theory, which works with functions, processes, and structures, is uniquely qualified to present the fundamental results of theoretical computer science. We will meet some of the deepest ideas and theorems of modern computers and mathematics,  e.g., Turing machines, unsolvable problems, the P=NP question, Kurt Gödel's incompleteness theorem, intractable problems, cryptographic protocols, Alan Turing's Halting problem, and much more. I will report on new things I learned about theoretical computer science and category theory while working on this project. 
+
+</p>
+</details>  
+<br/>
+
 
 ### Past Meetings
 Speaker : Mike Rawson  
