@@ -14,6 +14,7 @@ We will meet at intermittent Thursdays @ 2pm over [Zoom](zoom.us)
 
 Speaker : Saul Hilsenrath  
 Date : April 16 @ 2pm  
+Location : Zoom 915-7667-7156  
 Title : Infinity Toposes and Integrable Physical Systems
 <br/>
 <details><summary>Abstract</summary>
