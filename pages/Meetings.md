@@ -10,20 +10,20 @@ We will meet at intermittent Thursdays @ 2pm over [Zoom](zoom.us)
 - If you wish to speak at this seminar, contact Noah Chrein (email in footer)
 
 ### Upcoming Meetings
-Speaker : Noah Chrein  
-Date : April 9 @2pm  
-Title : Reasoning with Hierarchical Ontologies  
+
+
+Speaker : Saul Hilsenrath  
+Date : April 16 @ 2pm  
+Title : Infinity Toposes and Integrable Physical Systems
+<br/>
 <details><summary>Abstract</summary>
 <p>
-I will give an intuitive introduction to representation and reasoning with hierarchical ontologies. Most of the talk will be done through a notes application, but I will also show a prototype graphical interface for creating ontologies.
+ In physics, wave phenomena are modeled by integrable systems of PDEs, the solutions of which are points in an infinite-dimensional Grassmannian. In this talk, I will show that the Grassmannian and certain other physically-relevant moduli spaces, time permitting, correspond to instances of a particular class of infinity toposes. I will conclude with some of the mathematical and physical implications.
 
 </p>
 </details>  
 <br/>
 
-Speaker : Saul Hilsenrath  
-Date : April 16 @ 2pm  
-<br/>
 
 Speaker : Steve Huntsman  
 Date : April 23 @ 2pm  
@@ -39,7 +39,7 @@ Date : May 7 @ 2pm
 Title : Theoretical Computer Science for the Working Category Theorist  
 <details><summary>Abstract</summary>
 <p>
-This talk is a preview of a forthcoming book in the Applied Category Theory series of Cambridge University Press. The book uses basic category theory to describe all the central concepts and prove the main theorems of theoretical computer science. Category theory, which works with functions, processes, and structures, is uniquely qualified to present the fundamental results of theoretical computer science. We will meet some of the deepest ideas and theorems of modern computers and mathematics,  e.g., Turing machines, unsolvable problems, the P=NP question, Kurt Gödel's incompleteness theorem, intractable problems, cryptographic protocols, Alan Turing's Halting problem, and much more. I will report on new things I learned about theoretical computer science and category theory while working on this project. 
+This talk is a preview of a forthcoming book in the Applied Category Theory series of Cambridge University Press. The book uses basic category theory to describe all the central concepts and prove the main theorems of theoretical computer science. Category theory, which works with functions, processes, and structures, is uniquely qualified to present the fundamental results of theoretical computer science. We will meet some of the deepest ideas and theorems of modern computers and mathematics,  e.g., Turing machines, unsolvable problems, the P=NP question, Kurt Gödel's incompleteness theorem, intractable problems, cryptographic protocols, Alan Turing's Halting problem, and much more. I will report on new things I learned about theoretical computer science and category theory while working on this project.
 
 </p>
 </details>  
@@ -47,10 +47,22 @@ This talk is a preview of a forthcoming book in the Applied Category Theory seri
 
 
 ### Past Meetings
+
+Speaker : Noah Chrein  
+Date : April 9, 2020  
+Title : Reasoning with Hierarchical Ontologies  
+<details><summary>Abstract</summary>
+<p>
+I will give an intuitive introduction to representation and reasoning with hierarchical ontologies. Most of the talk will be done through a notes application, but I will also show a prototype graphical interface for creating ontologies.
+
+</p>
+</details>  
+<br/>
+
+
 Speaker : Mike Rawson  
 Date : March 26, 2020  
 Title : [Categorification of Persistent Homology](../assets/docs/Mike_Rawson_March_26.pdf)  
-Location : Zoom ([?](https://zoom.us))
 <br/>
 
 Speaker : Spencer Breiner  
