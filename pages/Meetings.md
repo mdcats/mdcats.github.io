@@ -4,8 +4,7 @@ title: meetings
 description: Meetings of the Maryland Applied Category Theory Seminar
 ---
 We will meet at intermittent Thursdays @ 2pm over [Zoom](zoom.us)
-- typically meetings will be recorded and posted on [youtube](https://www.youtube.com/channel/UCt912tGdm6vYlIMCqklxfoQ)  
--- unfortunately no videos recorded yet due to some technical difficulties  
+- if the speaker concents, meetings will be recorded and posted on [youtube](https://www.youtube.com/channel/UCt912tGdm6vYlIMCqklxfoQ)  \[also see: [videos](./Videos.html)\]
 <br/>
 - If you wish to speak at this seminar, contact Noah Chrein (email in footer)
 
@@ -51,7 +50,7 @@ This talk is a preview of a forthcoming book in the Applied Category Theory seri
 
 Speaker : Noah Chrein  
 Date : April 9, 2020  
-Title : Reasoning with Hierarchical Ontologies  
+Title : Reasoning with Hierarchical Ontologies  \[[video](https://www.youtube.com/embed/_CPAJn49oQk)\]  
 <details><summary>Abstract</summary>
 <p>
 I will give an intuitive introduction to representation and reasoning with hierarchical ontologies. Most of the talk will be done through a notes application, but I will also show a prototype graphical interface for creating ontologies.
