@@ -13,7 +13,6 @@ We meet Thursdays at 2pm. This year (due to Covid-19) we are meeting online via 
 
 see the [meetings](pages/Meetings.html) page for further details
 
-### About
-- This group was created by Noah Chrein, a PhD student in Math @ UMD
-- Contact:  nchrein (at) [initials of University Of Maryland] .edu
+### Connect
 - There is a mailing list and a slack page, email me to be added
+- Contact:  nchrein (at) [initials of **U**niversity of **M**arylan**D**] .edu

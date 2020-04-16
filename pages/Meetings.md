@@ -4,7 +4,7 @@ title: meetings
 description: Meetings of the Maryland Applied Category Theory Seminar
 ---
 We will meet at intermittent Thursdays @ 2pm over [Zoom](zoom.us)
-- if the speaker concents, meetings will be recorded and posted on [youtube](https://www.youtube.com/channel/UCt912tGdm6vYlIMCqklxfoQ)  \[also see: [videos](./Videos.html)\]
+- if the speaker consents, meetings will be recorded and posted on [youtube](https://www.youtube.com/channel/UCt912tGdm6vYlIMCqklxfoQ)  \[also see: [videos](./Videos.html)\]
 <br/>
 - If you wish to speak at this seminar, contact Noah Chrein (email in footer)
 
