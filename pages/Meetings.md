@@ -23,7 +23,7 @@ Speaker : James Fairbanks
 Date : April 30 @ 2pm  
 <br/>
 
-Speaker : Noson Yonofksy  
+Speaker : Noson Yanofksy  
 Date : May 7 @ 2pm  
 Title : Theoretical Computer Science for the Working Category Theorist  
 <details><summary>Abstract</summary>
