@@ -11,18 +11,7 @@ We will meet at intermittent Thursdays @ 2pm over [Zoom](zoom.us)
 ### Upcoming Meetings
 
 
-Speaker : Saul Hilsenrath  
-Date : April 16 @ 2pm  
-Location : Zoom 915-7667-7156  
-Title : Infinity Toposes and Integrable Physical Systems
-<br/>
-<details><summary>Abstract</summary>
-<p>
- In physics, wave phenomena are modeled by integrable systems of PDEs, the solutions of which are points in an infinite-dimensional Grassmannian. In this talk, I will show that the Grassmannian and certain other physically-relevant moduli spaces, time permitting, correspond to instances of a particular class of infinity toposes. I will conclude with some of the mathematical and physical implications.
 
-</p>
-</details>  
-<br/>
 
 
 Speaker : Steve Huntsman  
@@ -48,9 +37,23 @@ This talk is a preview of a forthcoming book in the Applied Category Theory seri
 
 ### Past Meetings
 
+Speaker : Saul Hilsenrath  
+Date : April 16 @ 2pm  
+Location : Zoom 915-7667-7156  
+Title : Infinity Toposes and Integrable Physical Systems \[[video](https://www.youtube.com/watch?v=JNWXUAPpJWc)\] \[[refs](..\assets\docs\Saul_References_April_16.pdf)\]
+<br/>
+<details><summary>Abstract</summary>
+<p>
+ In physics, wave phenomena are modeled by integrable systems of PDEs, the solutions of which are points in an infinite-dimensional Grassmannian. In this talk, I will show that the Grassmannian and certain other physically-relevant moduli spaces, time permitting, correspond to instances of a particular class of infinity toposes. I will conclude with some of the mathematical and physical implications.
+
+</p>
+</details>  
+<br/>  
+
+
 Speaker : Noah Chrein  
 Date : April 9, 2020  
-Title : Reasoning with Hierarchical Ontologies  \[[video](https://www.youtube.com/embed/_CPAJn49oQk)\]  
+Title : Reasoning with Hierarchical Ontologies  \[[video](https://www.youtube.com/watch?v=_CPAJn49oQk)\]  
 <details><summary>Abstract</summary>
 <p>
 I will give an intuitive introduction to representation and reasoning with hierarchical ontologies. Most of the talk will be done through a notes application, but I will also show a prototype graphical interface for creating ontologies.
@@ -62,7 +65,7 @@ I will give an intuitive introduction to representation and reasoning with hiera
 
 Speaker : Mike Rawson  
 Date : March 26, 2020  
-Title : [Categorification of Persistent Homology](../assets/docs/Mike_Rawson_March_26.pdf)  
+Title : Categorification of Persistent Homology \[[notes](../assets/docs/Mike_Rawson_March_26.pdf)\]  
 <br/>
 
 Speaker : Spencer Breiner  
