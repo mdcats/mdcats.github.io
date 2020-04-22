@@ -3,6 +3,8 @@ layout: page
 title: videos
 description: videos of meetings
 ---
+If the speaker consents, meetings will be recorded and posted on [youtube](https://www.youtube.com/channel/UCt912tGdm6vYlIMCqklxfoQ)  \[also see: [videos](./Videos.html)\]  
+
 
 Speaker : Noah Chrein  
 Date : April 9, 2020  

@@ -16,6 +16,7 @@ We will meet at intermittent Thursdays @ 2pm over [Zoom](zoom.us)
 
 Speaker : Steve Huntsman  
 Date : April 23 @ 2pm  
+Where : Zoom 914-4532-6502  
 Title: Categorical imperatives for designing data structures, algorithms, and system architectures  
 <br/>
 
