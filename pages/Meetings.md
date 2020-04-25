@@ -14,12 +14,6 @@ We will meet at intermittent Thursdays @ 2pm over [Zoom](zoom.us)
 
 
 
-Speaker : Steve Huntsman  
-Date : April 23 @ 2pm  
-Where : Zoom 914-4532-6502  
-Title: Categorical imperatives for designing data structures, algorithms, and system architectures  
-<br/>
-
 Speaker : James Fairbanks  
 Date : April 30 @ 2pm  
 <br/>
@@ -37,6 +31,14 @@ This talk is a preview of a forthcoming book in the Applied Category Theory seri
 
 
 ### Past Meetings
+
+
+Speaker : Steve Huntsman  
+Date : April 23 @ 2pm  
+Where : Zoom 914-4532-6502  
+Title: Categorical imperatives for designing data structures, algorithms, and system architectures  
+<br/>
+
 
 Speaker : Saul Hilsenrath  
 Date : April 16 @ 2pm  
