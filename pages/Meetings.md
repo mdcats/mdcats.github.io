@@ -16,6 +16,13 @@ We will meet at intermittent Thursdays @ 2pm over [Zoom](zoom.us)
 
 Speaker : James Fairbanks  
 Date : April 30 @ 2pm  
+Title : Categorical Modeling Languages: Bringing ACT to Scientific Computing  
+<details><summary>Abstract</summary>
+<p>
+I’ll discuss a perspective on scientific computing centered around the modeling framework. Applied Category Theory gives us the tools to represent these modeling frameworks and build powerful software for representing, manipulating, and solving complex systems in science and engineering. This work builds on decorated cospans, and categorical logic for knowledge representation. I’ll end with some open questions involving dynamical systems.
+
+</p>
+</details>  
 <br/>
 
 Speaker : Noson Yanofksy  
