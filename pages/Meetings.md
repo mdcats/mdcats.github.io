@@ -16,6 +16,7 @@ We will meet at intermittent Thursdays @ 2pm over [Zoom](zoom.us)
 
 Speaker : James Fairbanks  
 Date : April 30 @ 2pm  
+Where : Zoom 926-0203-0820  
 Title : Categorical Modeling Languages: Bringing ACT to Scientific Computing  
 <details><summary>Abstract</summary>
 <p>
@@ -42,7 +43,6 @@ This talk is a preview of a forthcoming book in the Applied Category Theory seri
 
 Speaker : Steve Huntsman  
 Date : April 23 @ 2pm  
-Where : Zoom 914-4532-6502  
 Title: Categorical imperatives for designing data structures, algorithms, and system architectures  
 <br/>
 
