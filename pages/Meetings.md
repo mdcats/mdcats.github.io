@@ -9,23 +9,6 @@ We will meet at intermittent Thursdays @ 2pm over [Zoom](zoom.us)
 - If you wish to speak at this seminar, contact Noah Chrein (email in footer)
 
 ### Upcoming Meetings
-
-
-
-
-
-Speaker : James Fairbanks  
-Date : April 30 @ 2pm  
-Where : Zoom 926-0203-0820  
-Title : Categorical Modeling Languages: Bringing ACT to Scientific Computing  
-<details><summary>Abstract</summary>
-<p>
-I’ll discuss a perspective on scientific computing centered around the modeling framework. Applied Category Theory gives us the tools to represent these modeling frameworks and build powerful software for representing, manipulating, and solving complex systems in science and engineering. This work builds on decorated cospans, and categorical logic for knowledge representation. I’ll end with some open questions involving dynamical systems.
-
-</p>
-</details>  
-<br/>
-
 Speaker : Noson Yanofksy  
 Date : May 7 @ 2pm  
 Title : Theoretical Computer Science for the Working Category Theorist  
@@ -40,10 +23,24 @@ This talk is a preview of a forthcoming book in the Applied Category Theory seri
 
 ### Past Meetings
 
+Speaker : James Fairbanks  
+Date : April 30 @ 2pm  
+Where : Zoom 926-0203-0820  
+Title : Categorical Modeling Languages: Bringing ACT to Scientific Computing  \[[video](https://www.youtube.com/watch?v=jxC6LF_H2zY)\]
+<details><summary>Abstract</summary>
+<p>
+I’ll discuss a perspective on scientific computing centered around the modeling framework. Applied Category Theory gives us the tools to represent these modeling frameworks and build powerful software for representing, manipulating, and solving complex systems in science and engineering. This work builds on decorated cospans, and categorical logic for knowledge representation. I’ll end with some open questions involving dynamical systems.
+
+</p>
+</details>  
+<br/>  
+
+
+
 
 Speaker : Steve Huntsman  
 Date : April 23 @ 2pm  
-Title: Categorical imperatives for designing data structures, algorithms, and system architectures  
+Title: Categorical imperatives for designing data structures, algorithms, and system architectures  \[[video](https://www.youtube.com/watch?v=uJ42ecW_VT4)\]  
 <br/>
 
 
