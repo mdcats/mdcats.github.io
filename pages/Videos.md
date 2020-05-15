@@ -5,6 +5,11 @@ description: videos of meetings
 ---
 If the speaker consents, meetings will be recorded and posted on [youtube](https://www.youtube.com/channel/UCt912tGdm6vYlIMCqklxfoQ)  
 
+Speaker : Noson Yanofsky  
+Date : May 7 @ 2pm  
+Title : Theoretical Computer Science for the Working Category Theorist  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y82xb_RF2fk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 Speaker : James Fairbanks  
 Date : April 30  

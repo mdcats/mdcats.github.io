@@ -9,6 +9,11 @@ We will meet at intermittent Thursdays @ 2pm over [Zoom](zoom.us)
 - If you wish to speak at this seminar, contact Noah Chrein (email in footer)
 
 ### Upcoming Meetings
+More talks coming next semester!  
+
+
+### Past Meetings
+
 Speaker : Noson Yanofsky  
 Date : May 7 @ 2pm  
 Title : Theoretical Computer Science for the Working Category Theorist  \[[handout](..\assets\docs\Noson_TCStalkHandout.pdf)\]  
@@ -18,10 +23,7 @@ This talk is a preview of a forthcoming book in the Applied Category Theory seri
 
 </p>
 </details>  
-<br/>
-
-
-### Past Meetings
+<br/>  
 
 Speaker : James Fairbanks  
 Date : April 30 @ 2pm  
