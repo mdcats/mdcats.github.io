@@ -1,13 +1,12 @@
 ---
 layout: page
 title: meetings
-description: Meetings of the Maryland Applied Category Theory Seminar
+description: Meetings of the Maryland Category Theory Group
 ---
-We meet Wednesdays @ 3pm
 
-
-If the speaker consents, meetings will be recorded and posted on [youtube](https://www.youtube.com/channel/UCt912tGdm6vYlIMCqklxfoQ)  \[also see: [videos](./Videos.html)\]
-
+### cat cafe
+We meet Wednesdays @ 3pm in the Math Lounge at UMD
+- overflow is room 1313
 
 ### Applied Category Theory Seminar
 The applied category theory seminar paused during covid. We will more info if we start back up.
