@@ -3,16 +3,19 @@ layout: page
 title: meetings
 description: Meetings of the Maryland Applied Category Theory Seminar
 ---
-We will meet at intermittent Thursdays @ 2pm over [Zoom](zoom.us)
-- if the speaker consents, meetings will be recorded and posted on [youtube](https://www.youtube.com/channel/UCt912tGdm6vYlIMCqklxfoQ)  \[also see: [videos](./Videos.html)\]
+We meet Wednesdays @ 3pm
+
+
+If the speaker consents, meetings will be recorded and posted on [youtube](https://www.youtube.com/channel/UCt912tGdm6vYlIMCqklxfoQ)  \[also see: [videos](./Videos.html)\]
+
+
+### Applied Category Theory Seminar
+The applied category theory seminar paused during covid. We will more info if we start back up.
+
 <br/>
-- If you wish to speak at this seminar, contact Noah Chrein (email in footer)
+If the speaker consents, meetings will be recorded and posted on [youtube](https://www.youtube.com/channel/UCt912tGdm6vYlIMCqklxfoQ)  \[also see: [videos](./Videos.html)\]
 
-### Upcoming Meetings
-More talks coming next semester!  
-
-
-### Past Meetings
+<br/>
 
 Speaker : Noson Yanofsky  
 Date : May 7 @ 2pm  
